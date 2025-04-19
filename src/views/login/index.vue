@@ -1,5 +1,7 @@
 <template>
     <div class="login">
-        <h1>This is an about page</h1>
+        <div class="login-container">
+            
+        </div>
     </div>
 </template>
